@@ -17,4 +17,4 @@ It can take as long as 48 hours for your domain to resolve to your GitHub page. 
 
 [1]:  http://mac.github.com/
 [2]:	http://windows.github.com/
-[3]:	alfaizkhan.github.io/
+[3]:	https://alfaizkhan.github.io
