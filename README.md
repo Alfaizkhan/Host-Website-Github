@@ -13,7 +13,8 @@
 
 It can take as long as 48 hours for your domain to resolve to your GitHub page. However, it is usually pretty quick, so check back in an hour or so. 
 
-**Checkout My website** : [Alfaizkhan.github.io]
+**Checkout My website** : [Alfaizkhan.github.io][3]
 
 [1]:  http://mac.github.com/
 [2]:	http://windows.github.com/
+[3]:	alfaizkhan.github.io/
